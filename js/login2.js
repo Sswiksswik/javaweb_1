@@ -13,7 +13,7 @@ function init() { // 로그인 폼에 쿠키에서 가져온 아이디 입력
        session_check(); // 세션 유무 검사
 }
 document.addEventListener('DOMContentLoaded', () => {
-    init();
+    
 });
 
 
